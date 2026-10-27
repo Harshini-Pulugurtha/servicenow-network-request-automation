@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-27 02:42:02">
+<sys_db_object action="INSERT_OR_UPDATE">
+<access>public</access>
+<actions_access>false</actions_access>
+<alter_access>false</alter_access>
+<caller_access/>
+<client_scripts_access>false</client_scripts_access>
+<configuration_access>false</configuration_access>
+<create_access>false</create_access>
+<create_access_controls>true</create_access_controls>
+<delete_access>false</delete_access>
+<extension_model/>
+<filter_extension/>
+<is_data_interface>false</is_data_interface>
+<is_df_table>false</is_df_table>
+<is_extendable>false</is_extendable>
+<label>Network Task Table</label>
+<live_feed_enabled>false</live_feed_enabled>
+<name>u_network_task_table</name>
+<number_ref display_value=""/>
+<read_access>true</read_access>
+<scriptable_table>false</scriptable_table>
+<super_class display_value="Task" name="task">4b429df43d63031074a2476226988ec5</super_class>
+<sys_class_code/>
+<sys_class_name>sys_db_object</sys_class_name>
+<sys_class_path/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-24 06:23:40</sys_created_on>
+<sys_id>013be5fe8388171034456170deaad3b5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Network Task Table</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sys_db_object_013be5fe8388171034456170deaad3b5</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-24 06:23:40</sys_updated_on>
+<update_access>false</update_access>
+<user_role display_value="u_network_task_table_user" name="u_network_task_table_user">de2d21f283c8171034456170deaad341</user_role>
+<ws_access>true</ws_access>
+</sys_db_object>
+</unload>
